@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32-s3-pico-1-n8r2")(type "KiCad")(uri "${KIPRJMOD}/~Symbols/esp32-s3-pico-1-n8r2.kicad_sym")(options "")(descr ""))
+)
