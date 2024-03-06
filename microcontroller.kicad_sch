@@ -4126,7 +4126,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0d304187-887e-4bfd-ba13-7994bee69105")
-		(property "Reference" "C204"
+		(property "Reference" "C205"
 			(at 102.87 27.94 0)
 			(effects
 				(font
@@ -4180,7 +4180,7 @@
 		(instances
 			(project "Vacuum_Tweezers"
 				(path "/25b5e35e-9397-4bb5-a91c-fc11ba49a08d/466683da-b970-4afc-a558-6e1093941948"
-					(reference "C204")
+					(reference "C205")
 					(unit 1)
 				)
 			)
@@ -4195,7 +4195,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1414f256-bfb5-4cd1-901d-97cd21b150be")
-		(property "Reference" "#PWR0208"
+		(property "Reference" "#PWR0205"
 			(at 213.36 52.07 0)
 			(effects
 				(font
@@ -4245,7 +4245,7 @@
 		(instances
 			(project "Vacuum_Tweezers"
 				(path "/25b5e35e-9397-4bb5-a91c-fc11ba49a08d/466683da-b970-4afc-a558-6e1093941948"
-					(reference "#PWR0208")
+					(reference "#PWR0205")
 					(unit 1)
 				)
 			)
@@ -4345,7 +4345,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f8d06dd-c583-4588-b5a5-d43c174b741d")
-		(property "Reference" "#PWR0201"
+		(property "Reference" "#PWR0203"
 			(at 142.24 25.4 0)
 			(effects
 				(font
@@ -4395,7 +4395,7 @@
 		(instances
 			(project "Vacuum_Tweezers"
 				(path "/25b5e35e-9397-4bb5-a91c-fc11ba49a08d/466683da-b970-4afc-a558-6e1093941948"
-					(reference "#PWR0201")
+					(reference "#PWR0203")
 					(unit 1)
 				)
 			)
@@ -4572,7 +4572,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ESP32-S3-PICO-1-N8R2:PQFN40P700X700X106-57N"
+		(property "Footprint" "SL_ST Tweezers:PQFN40P700X700X106-57N"
 			(at 144.78 93.98 0)
 			(effects
 				(font
@@ -4899,7 +4899,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5588ad8d-9a30-45bc-b4a0-09307c813d72")
-		(property "Reference" "R202"
+		(property "Reference" "R201"
 			(at 233.045 40.64 90)
 			(effects
 				(font
@@ -4978,7 +4978,7 @@
 		(instances
 			(project "Vacuum_Tweezers"
 				(path "/25b5e35e-9397-4bb5-a91c-fc11ba49a08d/466683da-b970-4afc-a558-6e1093941948"
-					(reference "R202")
+					(reference "R201")
 					(unit 1)
 				)
 			)
@@ -5063,7 +5063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7807b07e-963f-48a9-a09c-67628dc728dc")
-		(property "Reference" "#PWR0209"
+		(property "Reference" "#PWR0206"
 			(at 213.36 72.39 0)
 			(effects
 				(font
@@ -5114,7 +5114,7 @@
 		(instances
 			(project "Vacuum_Tweezers"
 				(path "/25b5e35e-9397-4bb5-a91c-fc11ba49a08d/466683da-b970-4afc-a558-6e1093941948"
-					(reference "#PWR0209")
+					(reference "#PWR0206")
 					(unit 1)
 				)
 			)
@@ -5267,7 +5267,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94bfe566-de18-4ed5-9d24-81cd19634efe")
-		(property "Reference" "#PWR0203"
+		(property "Reference" "#PWR0201"
 			(at 85.09 86.36 0)
 			(effects
 				(font
@@ -5318,7 +5318,7 @@
 		(instances
 			(project "Vacuum_Tweezers"
 				(path "/25b5e35e-9397-4bb5-a91c-fc11ba49a08d/466683da-b970-4afc-a558-6e1093941948"
-					(reference "#PWR0203")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -5471,7 +5471,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af26af98-d4aa-4d0e-b11e-f2eaf3798c3c")
-		(property "Reference" "C205"
+		(property "Reference" "C204"
 			(at 92.71 76.2 90)
 			(effects
 				(font
@@ -5523,7 +5523,7 @@
 		(instances
 			(project "Vacuum_Tweezers"
 				(path "/25b5e35e-9397-4bb5-a91c-fc11ba49a08d/466683da-b970-4afc-a558-6e1093941948"
-					(reference "C205")
+					(reference "C204")
 					(unit 1)
 				)
 			)
@@ -5677,7 +5677,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d700164b-de75-46b4-9c78-a6dc0025b963")
-		(property "Reference" "#PWR0206"
+		(property "Reference" "#PWR0204"
 			(at 142.24 166.37 0)
 			(effects
 				(font
@@ -5728,7 +5728,7 @@
 		(instances
 			(project "Vacuum_Tweezers"
 				(path "/25b5e35e-9397-4bb5-a91c-fc11ba49a08d/466683da-b970-4afc-a558-6e1093941948"
-					(reference "#PWR0206")
+					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
