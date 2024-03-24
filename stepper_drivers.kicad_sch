@@ -1869,17 +1869,6 @@
 		)
 		(uuid "fd8eb818-ad91-4e60-9d2b-5f462dd78674")
 	)
-	(label "LED_A"
-		(at 27.94 179.07 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "07c4ca79-0076-44cc-ad74-832f2a91ed42")
-	)
 	(label "~{MTR_FAULT}"
 		(at 16.51 191.77 0)
 		(fields_autoplaced yes)
@@ -1901,17 +1890,6 @@
 			(justify left bottom)
 		)
 		(uuid "7d642c45-86a0-4530-94ba-7f5ff70ca648")
-	)
-	(label "LED_A"
-		(at 50.8 179.07 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "8dca9f24-6e27-4e42-b968-850bf48ffd29")
 	)
 	(hierarchical_label "Z_AXIS_BIN1"
 		(shape input)
@@ -2439,7 +2417,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 27.94 185.42 0)
 			(effects
 				(font
@@ -2985,7 +2963,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 50.8 185.42 0)
 			(effects
 				(font
